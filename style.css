@@ -1,0 +1,122 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color:  ;
+
+}
+.product{ 
+    display: flex;
+   
+    
+}
+
+.product__photo{
+
+}
+
+.photo-container{
+    position: relative;
+    margin-left: 150px;
+    width: 350px ;
+    height: 80px;
+
+}
+
+/* #main_apple{
+    position: relative;
+    left: -80px;
+
+} */
+
+.photo-main{
+    background-color: greenyellow;
+    width: 350px;
+
+}
+
+.photo-main>img{
+    position: relative;
+    left: -80px;
+
+
+}
+
+.controls{
+
+}
+
+.photo-album{
+
+}
+
+.photo-album > ul > li > img{
+
+
+}
+
+#photo-album-mini{
+    display: flex;
+
+}
+
+.product__info{
+    background-color: white;
+    position: relative;
+    margin-left: 50px;
+
+}
+
+.title{
+    font-size: xx-large;
+    display: ;
+
+}
+
+.title>span{
+    color:gray;
+    font-size: small ;
+}
+
+.price{
+    color: red;
+
+
+}
+
+.price>span{
+    font-size:xx-large;
+}
+
+.variant{
+
+}
+
+#Select-a-color{
+    display: flex;
+}
+
+.description{
+
+}
+
+#Add-to-cart{
+    border: none ;
+    border-radius: 5px ;
+    background-color: red;
+    color: white;
+    width: 150px;
+    height: 50px;
+
+
+
+}
+
+
+
+
+
+
+ul{
+    list-style: none;
+
+}
